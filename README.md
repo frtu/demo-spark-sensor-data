@@ -1,6 +1,11 @@
 # demo-spark-sensor-data
 Demo Spark application to transform data gathered on sensors for a heatmap application.
 
+Bump version for :
+
+* Hadoop : 2.0.0-hadoop2.7.4-java8
+* Spark : 2.4.5
+
 ## Description
 Our demo-case considers the location of trackers at various time intervals. We assume we continuously monitor the location of the tracker and we intend to display a heatmap which shows where the trackers were at various time intervals. Given that this is a Big Data project, we envision having received the location of many thousands of trackers. The output will display a heatmap indicating how busy an area was at a time-interval.
 

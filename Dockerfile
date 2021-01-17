@@ -1,4 +1,4 @@
-FROM bde2020/spark-java-template:1.5.1-hadoop2.6
+FROM bde2020/spark-java-template:2.4.3-hadoop2.7
 
 MAINTAINER Erika Pauwels <erika.pauwels@tenforce.com>
 
